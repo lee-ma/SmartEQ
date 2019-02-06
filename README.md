@@ -4,7 +4,13 @@ SmartEQ is a smart glasses hack that allows users to better understand the emoti
 
 SmartEQ uses a SocketIO connection with Flask in the backend, and React in the frontend. It uses Microsoft Azure's Face API and speech-to-text with sentiment analysis to predict and show ratings to the user to provide a holistic analysis of another person's emotions.
 
+## Prizes Won:
+- Sunlife Best Health and Wellness Hack
+- TD Best Green Hack
+
 Check it out on devpost: https://devpost.com/software/smarteq
+
+## Try it out
 
 For the python backend, Python 3.6.7
 
